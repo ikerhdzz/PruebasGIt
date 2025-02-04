@@ -1,3 +1,5 @@
 <?php
-echo "hola mundo \n"
+@print echo "hola mundo {$argv[1]}\n";
 ?>
+
+
